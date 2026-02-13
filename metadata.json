@@ -1,0 +1,9 @@
+{
+  "name": "TZTW 考察系统制作",
+  "description": "A collaborative expedition management system with role-based access control, map visualization, and multimedia project tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
